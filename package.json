@@ -51,6 +51,7 @@
   "dependencies": {},
   "devDependencies": {
     "@antfu/eslint-config": "^9.5.1",
+    "@arethetypeswrong/core": "^0.18.5",
     "@kikiutils/eslint-config": "^9.2.1",
     "@kikiutils/tsconfigs": "^7.0.0",
     "@types/node": "^26.4.1",
